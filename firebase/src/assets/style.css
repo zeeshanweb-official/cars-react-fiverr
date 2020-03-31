@@ -1,0 +1,15 @@
+.imageReplacer {
+    position: absolute;
+    top: 41%;
+    color: red;
+    font-size: 35px;
+    left: 46%;
+}
+
+.hidden {
+    display: none;
+}
+
+#img_1:hover .imageReplacer {
+    display: inline !important;
+}
